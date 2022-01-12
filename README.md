@@ -1668,3 +1668,7 @@ R: Tambor de pedra
 Questão 415
 O que faz a habilidade de aliança "Presente da Natureza" quando é usada?
 R: Invoque pontos de recurso numa área selecionada
+
+Questão 416
+Onde ocorreu a batalha final entre o Rei Arthur e Mordred, de acordo com a lenda arturiana ?
+R: Camlann
