@@ -1677,3 +1677,6 @@ Questão 417
 Quem comandou o novo exército modelo fundado pelo parlamento durante a Guerra Inglesa?
 R: Cromwell
 
+Questão 418
+Qual das seguintes tecnologias precede a "Equitação"
+R: Diciplina Militar
